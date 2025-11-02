@@ -39,5 +39,9 @@ Use http://127.0.0.1:8000/api URL in postman tool to perform cred operations
 Conclusion:
 External SQL database connected to DJANGO to perform and store all operations. We checked with the help of POSTMAN tool, all operation performed perfectly.
 
+I appreciate your time in reading through my project. Please feel free to connect with me if you’d like to discuss it further!
+
+LinkedIn: Connect with me professionally @ www.linkedin.com/in/praveen-ram-r-979088190
+
 
 
